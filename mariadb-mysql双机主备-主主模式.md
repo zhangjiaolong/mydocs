@@ -82,8 +82,3 @@ start slave;
 #查看启动状态 查询的内容中Slave_IO_Running: Yes  Slave_SQL_Running: Yes 则表示启动成功。
 show slave status\G;
 ```
-
-## 2. 安装mycat
-
-## 3. openfire安装
-
